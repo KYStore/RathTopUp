@@ -1,0 +1,45 @@
+
+body {
+    background-image: url("image/background.png");
+    background-size: 50cm;
+}
+.name {
+    font-weight: 900;
+    position: relative;
+    top: -15px;
+    left: 80px;
+    color: rgba(143, 252, 0, 0.849);
+    text-shadow: 0 0 5px black;
+  }
+  .line {
+    border: 1px solid #000;
+    border-radius: 5px;
+    background: #ff0000;
+    position: relative;
+    top: -15px;
+  }
+  h2 {
+    position: relative;
+    top: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0  5px #ffffff;
+    left: 45px;
+  }
+  .mlbb {
+    position: absolute;
+    left: 50px;
+    cursor: pointer;
+  }
+  .ff {
+    position: relative;
+    left: 250px;
+    top: -50px;
+  }
+  h3 {
+    position: relative;
+    top: -70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0  5px #ffffff;
+    left: 270px;
+  }
+
